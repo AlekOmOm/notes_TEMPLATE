@@ -1,6 +1,12 @@
 # [Number]. [Note Title] [Emoji]
 
-[<- Back to Main Note](./README.md) | [Next: [Next Topic] ->](./<next-file>.md)
+[<- Back: Main Note](./README.md) | [Next: [Next Topic] ->](./<next-file>.md)
+
+Optional if sub-notes for [Number]. [Note Title] are present.
+**Sub-notes**:
+1. a) [Sub-note 1](./<sub-note-1>.md)
+2. b) [Sub-note 2](./<sub-note-2>.md)
+...
 
 ## Table of Contents
 
@@ -124,4 +130,4 @@ Summary of best practices for this topic:
 
 ---
 
-[<- Back to Main Note](./README.md) | [Next: [Next Topic] ->](./<next-file>.md)
+[<- Back: Main Note](./README.md) | [Next: [Next Topic] ->](./<next-file>.md)
