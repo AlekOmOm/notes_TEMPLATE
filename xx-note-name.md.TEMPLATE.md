@@ -3,9 +3,18 @@
 [<- Back: Main Note](./README.md) | [Next: [Next Topic] ->](./<next-file>.md)
 
 Optional if sub-notes for [Number]. [Note Title] are present.
-**Sub-notes**:
-1. a) [Sub-note 1](./<sub-note-1>.md)
-2. b) [Sub-note 2](./<sub-note-2>.md)
+
+[<- Back: Main Note](./README.md) | [Current: [Current Topic] ->](./<current-topic>.md) |  [Next: [Next Topic] ->](./<next-file>.md)
+
+next: [sub-note name](./<next-sub-note-file>.md)
+
+--- 
+- [ [Number] + a - sub-note-name ](./<sub-note-file>.md) 
+- [ [Number] + b - sub-note-name ](./<sub-note-file>.md) 
+- [ [Number] + c - sub-note-name ](./<sub-note-file>.md) 
+- [ [Number] + d - sub-note-name ](./<sub-note-file>.md) 
+---
+
 ...
 
 ## Table of Contents
